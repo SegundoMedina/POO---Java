@@ -1,5 +1,5 @@
-# Evaluacion-Nro-2-POO-Java
-Evaluación Nro 2 de Programación Orientada a Objetos en Lenguaje Java Awakelab 
+# POO-Java
+Programación Orientada a Objetos en Lenguaje Java Awakelab 
 
 Autor Segundo Medina Gonzalez
 
